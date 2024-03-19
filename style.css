@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+}
+
+.mainblock {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 790px;
+    border: 2px solid black;
+}
+
+.topblock {
+    background-color: rgb(255, 233, 35);
+    border: 2px solid black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 70px;
+}
+
+.inercontainer {
+    background-color: rgb(245, 253, 255);
+    border: 2px solid black;
+    height: 50px;
+    width: 200px;
+}
+
+.first {
+    text-align: right;
+    height: 50px;
+    padding-right: 150px;
+    width: 300px;
+}
+
+.cont2345 {
+    display: flex;
+}
+
+
+
+.two {
+    background-color: rgb(73, 119, 255);
+    height: 550px;
+    width: 180px;
+    margin-right: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.tree {
+    background-color: rgb(232, 71, 71);
+    border: 2px solid black;
+    height: 550px;
+    width: 180px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.four {
+    background-color: rgb(255, 245, 245);
+    border: 2px solid black;
+    height: 550px;
+    width: 180px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.five {
+    background-color: rgb(232, 71, 71);
+    border: 2px solid black;
+    height: 550px;
+    width: 180px;
+    text-align: center;
+}
+
+.six {
+    background-color: rgb(255, 233, 35);
+    border: 2px solid black;
+    height: 100px;
+    text-align: center;
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
